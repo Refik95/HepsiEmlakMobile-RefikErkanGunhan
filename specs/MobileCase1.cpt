@@ -1,0 +1,44 @@
+
+# Satılık İkonuna Tıklanır
+* Cookie Mobilde Kapatılır
+* Mobilde Satılık Butonuna Tıklanır
+
+# Filtrele Butonuna Tıklanır
+* Mobilde Filtrele Butonuna Tıklanır
+
+# İl Olarak İzmir Seçilir
+* Mobilde İl Seçiniz Kutucuğuna Tıklanır
+* Mobilde İl İzmir Seçilir
+
+# İlçe Olarak Bornova Seçilir
+* Mobilde İlçe Seçiniz Kutucuğuna Tıklanır
+* Mobilde İlçe Bornova Seçilir
+* Mobilde Uygula Butonuna Tıklanır
+
+# Kategori Olarak İşyeri Seçilir
+* Mobilde Kategori Olarak İşyeri Seçilir
+
+# Fiyat Olarak Min(100.000) Max(2.000.000) Girilir
+* Mobilde Minimum Fiyat "100000" Olarak Girilir
+* Mobilde 1 Saniye Kadar Beklenir
+* Mobilde Maksimum Fiyat "2000000" Olarak Girilir
+
+# Bina Yaşı (Sıfır Bina, 1-5, 6-10) Olarak Seçilir
+* Mobilde Bina Yaşı Kutucuğuna Tıklanır
+* Mobilde Sıfır Bina Seçilir
+* Mobilde Bina Yaşı 1-5 Seçilir
+* Mobilde Bina Yaşı 6-10 Seçilir
+* Mobilde Bina Yaşları Uygulanır
+
+# Sonuçları Göster Butonuna Tıklanır
+* Mobilde Sonuçları Göster Butonuna Tıklanır
+
+# Tag Kontrolleri Yapılır
+* Mobilde Filtrele Butonuna Tekrar Tıklanır
+* Bina Yaşının 6-10 Olduğu Kontrolü Yapılır
+* Bina Yaşının 1-5 Olduğu Kontrolü Yapılır
+* Bina Yaşının Sıfır Bina Olduğu Kontrolü Yapılır
+* Bina Maximum Fiyat Bilgisi Kontrolü Yapılır
+* Bina Minimum Fiyat Bilgisi Kontrolü Yapılır
+* Kategorinin İşyeri Olduğu Kontrol Edilir
+* İşyeri Durumunun Satılık Olduğu Kontrol Edilir

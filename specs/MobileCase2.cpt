@@ -1,0 +1,36 @@
+
+# Kiralık İkonuna Tıklanır
+* Cookie Mobilde Kapatılır
+* Kiralık Butonuna Tıklanır
+
+# Filtrele İkonuna Tıklanır
+* Filtrele Butonuna Tıklanır
+
+# İl Olarak Ankara Seçilir
+* İl Seçiniz Kutusuna Tıklanır
+* İl Ankara Olarak Seçilir
+
+# İlçe Olarak Çankaya Seçilir
+* İlçe Seçiniz Kutusuna Tıklanır
+* İlçe Seçinizden Çankaya Seçilir
+* Uygula Butonuna Tıklanır
+
+# Oda Salon Sayısı (2+1) Seçilir
+* Oda Seçiniz Kutusuna Tıklanır
+* Oda Sayısı (2+1) Seçilir
+* Uygula Butonuna Tekrar Tıklanır
+
+# Site İçinde Seçeneği Evet Olarak İşraretlenir
+* Site İçinde Kutucuğu Evet Olucak Şekilde Seçilir
+
+# Sonuçları Göster Butonuna Basılır
+* Sonuçları Göster Butonuna Tıklanır
+* 2 Saniye Kadar Beklenir
+
+# Çıkan Sonuçlardan Üçüncü İlana Tıklanır
+* Üçüncü İlana Tıklanır
+* 3 Saniye Kadar Beklenir
+
+# Telefonu Göstere Tıklanır Ve Gerçekliği Kontrol Edilir
+* Telefonu Göster Butonuna Tıklanır
+* Telefon Numarasının Gerçekliğini Sorgula
