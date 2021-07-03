@@ -18,7 +18,6 @@ Scenario2:
 2) Click on "Kiralık”
 3) Make a search: Ankara - Çankaya; Konut; 2+1; Site İçerisinde: Evet ;
 4) Click on the 3rd listing on the results and go to listing detail page.
-5) WEB: On the Detail page there is a “Telefon Numarasini Goster” link on the right.
 6) MOBILE: On the detail page there is a “Ilan Sahibini Ara” link on the bottom.
 7) Validate the phone number that it is a real and valid mobile or landline number. (eg.
 +905xxxxxxxxx , +90212xxxxxxx)
