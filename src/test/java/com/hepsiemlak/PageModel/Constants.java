@@ -39,7 +39,7 @@ public class Constants {
    public static final By MOBIL2_CLICK_UYGULA_BUTTON2 = By.xpath("//*[@id=\"dropdown-lightbox-filter\"]/button");
    public static final By MOBIL2_CLICK_SITE_ICINDE = By.xpath("//span[contains(text(),'Site İçinde')]");
    public static final By MOBIL2_CLICK_SONUCLARI_GOSTER = By.xpath("//button[@class='btn btn-red cardShadow3 get-result']");
-   public static final By MOBIL2_CLICK_UCUNCU_ILAN = By.xpath("//span[text()='İlan No: 51337-514']");
+   public static final By MOBIL2_CLICK_UCUNCU_ILAN = By.xpath("//span[text()='İlan No: 3298-1930']");
    public static final By MOBIL2_CLICK_TELEFONU_GOSTER = By.xpath("//button/span[text()='Telefonu Göster']");
 
 

@@ -67,8 +67,8 @@ public class MobileWebClass2 extends Base {
 
     @Step({"Telefon Numarasının Gerçekliğini Sorgula"})
     public void assertCheckPhoneNumberIfReal() {
-        String expectedTitle = driver.findElement(By.xpath("//div[@class='phone-number']/a[@href='tel:+905527608881']")).getText();
-        String actualTitle = "0552 760 88 81";
+        String expectedTitle = driver.findElement(By.xpath("//div[@class='phone-number']/a[@href='tel:+905323638378']")).getText();
+        String actualTitle = "0532 363 83 78";
         Assert.assertEquals(expectedTitle, actualTitle);
     }
 }
